@@ -5,4 +5,4 @@
 - Please run the R script with your local path (where your downloaded data files are saved).
 - People who use the codes/data agree to cite the current paper properly in the following style:
 
-$ Tony Huiquan Zhang. (2019) “The Rise of the Princelings in China: Career Advantages and Collective Elite Reproduction,” Journal of East Asian Studies.
+### Tony Huiquan Zhang. (2019) “The Rise of the Princelings in China: Career Advantages and Collective Elite Reproduction,” Journal of East Asian Studies.
