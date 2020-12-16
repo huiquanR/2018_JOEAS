@@ -6,4 +6,4 @@
 - People who use the codes/data agree to cite the current paper properly.
 
 ### Welcome to cite my work as following ###
-**Zhang, Tony Huiquan**. 2019. "The Rise of the Princelings in China: Career Advantages and Collective Elite Reproduction." *Journal of East Asian Studies*, 19(2), p.169-196.
+**Zhang, Tony Huiquan**. 2019. "The Rise of the Princelings in China: Career Advantages and Collective Elite Reproduction." *Journal of East Asian Studies*, 19(2): 169-196.
